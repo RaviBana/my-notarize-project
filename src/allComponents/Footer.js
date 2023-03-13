@@ -6,7 +6,7 @@ import insta from './../assets/inst.png'
 import twit from './../assets/twit.png'
 const Footer = () => {
     return (
-        <div className='footer'>
+        <footer className='footer'>
 
             <div className='first-footer d-flex justify-content-center'>
                             <div className='first1-footer d-flex flex-column'>
@@ -58,7 +58,7 @@ const Footer = () => {
             <div>
 
             </div>
-        </div>
+        </footer>
     )
 }
 

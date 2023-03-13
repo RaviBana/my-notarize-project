@@ -3,7 +3,7 @@ import Group34 from './../assets/Group34.png'
 
 const Header = () => {
   return (
-    <div>
+    <header>
       <nav class="navbar navbar-expand-lg bg-none color-dark">
         <div class="container-fluid">
           <img src={Group34} alt="" />
@@ -52,7 +52,7 @@ const Header = () => {
       </nav>
 
 
-    </div>
+    </header>
   )
 }
 
